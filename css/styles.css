@@ -214,6 +214,7 @@ body {
   color: var(--logo-color);
   background-color: var(--portfolio-button-color);
   cursor: pointer;
+  font-family: 'Roboto', sans-serif;
 }
 
 .portf-button-item:hover,
