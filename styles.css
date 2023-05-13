@@ -1,0 +1,19 @@
+:root {
+  --background-color: #fff;
+  --main-text-color: #2E2F42;
+  --secondary-text-color: #434455;
+  --logo-button-color: #4D5AE5;
+}
+
+body {
+  color: #2E2F42;
+  font-family: 'Roboto', sans-serif;
+}
+
+.link {
+  text-decoration: none;
+}
+
+.list {
+  list-style: none;
+}
