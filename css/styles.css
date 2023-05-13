@@ -110,7 +110,7 @@ body {
 
 .hero-button:hover,
 .hero-button:focus {
-  color: var(--hover-link-color);
+  background-color: var(--hover-link-color);
 }
 
 /*-------------------------------- FEATURES -----------------*/
@@ -140,6 +140,7 @@ body {
   text-align: center;
   letter-spacing: 0.02em;
   text-transform: capitalize;
+  color: var(--text-color);
 }
 
 /* ------------------------------TEAM ---------------------*/
